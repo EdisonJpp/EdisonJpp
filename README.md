@@ -29,28 +29,26 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/html-5.png" />
-<img align="left" alt="CSS3" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/css.png" />
+<img align="left" alt="CSS3" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/css.png" /> -->
 
-<div>
-<img align="left" alt="JavaScript" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/java-script.png" />
-<img align="left" alt="Typescript" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/typescript.png" />
-<img align="left" alt="React" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/662c044a8d39141f6d542f51d6ffa62ea679235d/icons/react.png" />
-<img align="left" alt="Angular" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/angular.svg" />
-</div>
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/java-script.png" />
+<img align="left" alt="Typescript" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/typescript.png" />
+<img align="left" alt="React" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/662c044a8d39141f6d542f51d6ffa62ea679235d/icons/react.png" />
+<img align="left" alt="Angular" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/angular.svg" />
 
-<img align="left" alt="Node.js" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/node-svg.svg" />
+<img align="left" alt="Node.js" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/node-svg.svg" />
 
 <img align="left" alt="Express" width="38px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/expressjs.svg" />
-<img align="left" alt="Graphql" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/graphql-icon.svg" />
+<img align="left" alt="Graphql" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/graphql-icon.svg" />
 <img align="left" alt="Apollo" width="38px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/apollo.svg" />
 
-<img align="left" alt="Bootstrap" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/bootstrap.svg" />
-<img align="left" alt="Tailwinds" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/tailwind-css-icon.svg" />
+<img align="left" alt="Bootstrap" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/bootstrap.svg" />
+<img align="left" alt="Tailwinds" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/tailwind-css-icon.svg" />
 
-<img align="left" alt="SQL" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/sql.png" />
-<img align="left" alt="Git" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/git.png" />
+<img align="left" alt="SQL" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/sql.png" />
+<img align="left" alt="Git" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/git.png" />
 
 <br />
 <br />
