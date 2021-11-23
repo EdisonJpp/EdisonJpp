@@ -13,6 +13,7 @@
 #OpenSoftware
 
 - [react-export-table-to-excel][react-export-table-to-excel]
+- [Becas][becas]
 
 <!-- ## I'm a Husband, Father, Developer!! -->
 
@@ -95,6 +96,7 @@
 
 [linkedin]: https://www.linkedin.com/in/edison-j-padilla-4970231a8
 [react-export-table-to-excel]: https://github.com/EdisonJpp/react-export-table-to-excel
+[becas]: https://github.com/opticrd/becas-portal-frontend
 
 <!-- [faker]: https://github.com/ifirestone/java-faker -->
 <!-- [language]: https://github.com/ifirestone/laravel-languages -->
