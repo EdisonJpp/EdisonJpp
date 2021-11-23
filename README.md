@@ -40,7 +40,7 @@
 
 <img align="left" alt="Node.js" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/node-svg.svg" />
 
-<img align="left" alt="Express" width="38px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/expressjs.svg" />
+<img align="left" alt="Express" width="38px" width="50px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/expressjs.svg" />
 <img align="left" alt="Graphql" width="35px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/graphql-icon.svg" />
 <img align="left" alt="Apollo" width="38px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/apollo.svg" />
 
