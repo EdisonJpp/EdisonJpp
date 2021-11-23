@@ -33,10 +33,12 @@
 <img align="left" alt="HTML5" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/html-5.png" />
 <img align="left" alt="CSS3" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/css.png" />
 
+<div>
 <img align="left" alt="JavaScript" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/af6b09fd1defc1f148dea5973af74e2ad12cc486/icons/java-script.png" />
 <img align="left" alt="Typescript" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/typescript.png" />
 <img align="left" alt="React" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/662c044a8d39141f6d542f51d6ffa62ea679235d/icons/react.png" />
 <img align="left" alt="Angular" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/angular.svg" />
+</div>
 
 <img align="left" alt="Node.js" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/node-svg.svg" />
 
