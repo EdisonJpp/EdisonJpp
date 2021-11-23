@@ -13,7 +13,7 @@
 #OpenSoftware
 
 - [Export html table to excel][react-export-table-to-excel]
-- [national scholarships (Dominican Republic)][becas]
+- [National scholarships (Dominican Republic)][becas]
 
 <!-- ## I'm a Husband, Father, Developer!! -->
 
