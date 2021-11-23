@@ -63,7 +63,7 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
-[![EdisonJpp's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonJpp&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
+[![EdisonJpp's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonJpp&count_private=true&show_icons=true&theme=radical)](https://github.com/EdisonJpp/github-readme-stats)
 
 </details>
 
