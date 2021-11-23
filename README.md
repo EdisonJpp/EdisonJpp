@@ -47,23 +47,21 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#27](https://github.com/opticrd/becas-backoffice-frontend/pull/27) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
 2. 💪 Opened PR [#27](https://github.com/opticrd/becas-backoffice-frontend/pull/27) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
 3. 🎉 Merged PR [#26](https://github.com/opticrd/becas-backoffice-frontend/pull/26) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
 4. 🎉 Merged PR [#32](https://github.com/opticrd/becas-portal-frontend/pull/32) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
 5. 💪 Opened PR [#32](https://github.com/opticrd/becas-portal-frontend/pull/32) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
-<!--END_SECTION:activity-->
-  
-</details>
+
+</details> -->
 
 <details>
  <summary>:zap: GitHub Stats</summary>
 
-[![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
+[![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonJpp&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
 
 </details>
 
