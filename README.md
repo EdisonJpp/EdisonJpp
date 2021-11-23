@@ -41,7 +41,7 @@
 <img align="left" alt="Git" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/git.png" />
 <!-- <img align="left" alt="GitHub" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/github.svg" /> -->
 <img align="left" alt="Terminal" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/terminal.png" />
-<img align="left" alt="Typescript" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/typescript.png" />
+<img align="left" alt="Typescript" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/typescript.png" />
 
 <br />
 <br />
