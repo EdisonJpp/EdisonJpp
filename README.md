@@ -38,10 +38,11 @@
 <img align="left" alt="React" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/662c044a8d39141f6d542f51d6ffa62ea679235d/icons/react.png" />
 <img align="left" alt="Angular" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/angular.svg" />
 
-<img align="left" alt="Node.js" width="28px" src=https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/node-svg.svg" />
-<img align="left" alt="Express" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/expressjs.svg" />
+<img align="left" alt="Node.js" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/node-svg.svg" />
+
+<img align="left" alt="Express" width="38px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/expressjs.svg" />
 <img align="left" alt="Graphql" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/graphql-icon.svg" />
-<img align="left" alt="Apollo" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/apollo.svg" />
+<img align="left" alt="Apollo" width="38px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/apollo.svg" />
 
 <img align="left" alt="Bootstrap" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/bootstrap.svg" />
 <img align="left" alt="Tailwinds" width="28px" src="https://github.com/EdisonJpp/EdisonJpp/blob/master/icons/tailwind-css-icon.svg" />
