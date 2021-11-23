@@ -1,31 +1,29 @@
-### Hi there, I'm Ivan Firestone - [ifirestone][website] 👋 
+### Hi there, I'm Edison Padilla
 
-[![Website](https://img.shields.io/website?label=fmt.com.do&style=for-the-badge&url=https%3A%2F%2Ffmt.com.do)](https://fmt.com.do)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ijfirestone?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fijfirestone&screen_name=ijfirestone)
+<!-- [![Website](https://img.shields.io/website?label=fmt.com.do&style=for-the-badge&url=https%3A%2F%2Ffmt.com.do)](https://fmt.com.do) -->
 
-- 👀 I’m interested Laravel Development
-- 🌱 I’m currently learning JS, Python
-- 💞️ I’m looking to collaborate on OpenSource projects
-- 📫 ivan.firestone@icloud.com
-- [![wakatime](https://wakatime.com/badge/user/7c82a842-ae69-49a2-9d33-87a9b5f7fcd8.svg)](https://wakatime.com/@7c82a842-ae69-49a2-9d33-87a9b5f7fcd8)
+[![Twitter Follow](https://img.shields.io/twitter/follow/edisonjpp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/edisonjpp)
+
+<!-- - 👀 I’m interested Laravel Development -->
+<!-- - 🌱 I’m currently learning JS, Python -->
+  <!-- - 💞️ I’m looking to collaborate on OpenSource projects -->
+  <!-- - 📫 ivan.firestone@icloud.com -->
+  <!-- - [![wakatime](https://wakatime.com/badge/user/7c82a842-ae69-49a2-9d33-87a9b5f7fcd8.svg)](https://wakatime.com/@7c82a842-ae69-49a2-9d33-87a9b5f7fcd8) -->
 
 #OpenSoftware
-- [API-RD-TERRITORIAL][territorial]
-- [JAVA-FAKER][faker]
-- [LARAVEL-LANGUAGES][language]
 
-## I'm a Husband, Father, Developer!!
+- [react-export-table-to-excel][react-export-table-to-excel]
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games
+<!-- ## I'm a Husband, Father, Developer!! -->
+
+<!-- - 🌱 I’m currently learning everything 🤣 -->
+  <!-- - 🥅 2022 Goals: Contribute more to Open Source projects -->
+  <!-- - ⚡ Fun fact: I love to play video games -->
 
 ### Connect with me:
 
-[<img align="left" alt="fmt.com.do" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/global.png" />][website]
 [<img align="left" alt="ijfirestone | Twitter" width="28px" src="https://github.com/ifirestone/ifirestone/blob/01e0e874e27aab947c681d7a327925fae72c54f5/icons/twitter.png" />][twitter]
 [<img align="left" alt="ifirestone | LinkedIn" width="28px" src="https://github.com/ifirestone/ifirestone/blob/01e0e874e27aab947c681d7a327925fae72c54f5/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="ifirestone | Instagram" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/instagram.png" />][instagram]
 
 <br />
 
@@ -44,12 +42,10 @@
 <img align="left" alt="GitHub" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/github.svg" />
 <img align="left" alt="Terminal" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/terminal.png" />
 
-
 <br />
 <br />
 
 ---
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -64,34 +60,35 @@
   
 </details>
 
-
 <details>
  <summary>:zap: GitHub Stats</summary>
 
-  [![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
+[![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
 
 </details>
-
 
 <details>
  <summary>:zap: Language Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifirestone&layout=compact)](https://github.com/ifirestone/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonJpp&layout=compact)](https://github.com/EdisonJpp/github-readme-stats)
 
 </details>
 
-
-<details>
+<!-- <details>
 <summary>:zap: Wakatime Stats</summary>
 
 [![ifirestone's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifirestone)](https://github.com/ifirestone/github-readme-stats)
 
-</details>
+</details> -->
 
-[website]: https://fmt.com.do
-[twitter]: https://twitter.com/ijfirestone
-[instagram]: https://instagram.com/ifirestone
-[linkedin]: https://linkedin.com/in/ifirestone
-[territorial]: https://github.com/ifirestone/api-territorial
-[faker]: https://github.com/ifirestone/java-faker
-[language]: https://github.com/ifirestone/laravel-languages
+<!-- [website]: https://fmt.com.do -->
+
+[twitter]: https://twitter.com/edisonjpp
+
+<!-- [instagram]: https://instagram.com/ifirestone -->
+
+[linkedin]: https://www.linkedin.com/in/edison-j-padilla-4970231a8
+[react-export-table-to-excel]: https://github.com/EdisonJpp/react-export-table-to-excel
+
+<!-- [faker]: https://github.com/ifirestone/java-faker -->
+<!-- [language]: https://github.com/ifirestone/laravel-languages -->
