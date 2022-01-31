@@ -5,7 +5,6 @@
 #OpenSoftware
 
 - [Export html table to excel][react-export-table-to-excel]
-- [National and international scholarships (Dominican Republic)][becas]
 
 ### Connect with me:
 
