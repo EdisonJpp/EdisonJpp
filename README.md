@@ -5,6 +5,7 @@
 #OpenSoftware
 
 - [Export html table to excel][react-export-table-to-excel]
+- [rtk query graphql to implement with @redux/toolkit rtk-query][rtk-query-graphql]
 
 ### Connect with me:
 
@@ -53,4 +54,5 @@
 [twitter]: https://twitter.com/edisonjpp
 [linkedin]: https://www.linkedin.com/in/edison-j-padilla-4970231a8
 [react-export-table-to-excel]: https://github.com/EdisonJpp/react-export-table-to-excel
+[rtk-query-graphql]: https://github.com/EdisonJpp/rtk-query-graphql
 [becas]: https://github.com/opticrd/becas-portal-frontend
