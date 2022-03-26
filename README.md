@@ -1,6 +1,5 @@
 ### Hi there, I'm Edison Padilla
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/edisonjpp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/edisonjpp)
 
 #OpenSoftware
 
