@@ -1,6 +1,7 @@
 ### Hi there, I'm Edison Padilla
 
 #Porfolio
+
  - [edison padilla][porfolio]
 
 #OpenSoftware
@@ -51,6 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonJpp&layout=compact)](https://github.com/EdisonJpp/github-readme-stats)
 
 </details>
+
 [porfolio]: https://edisonpadilla.vercel.app
 [twitter]: https://twitter.com/edisonjpp
 [linkedin]: https://www.linkedin.com/in/edison-j-padilla-4970231a8
