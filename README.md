@@ -53,7 +53,7 @@
 
 </details>
 
-[porfolio]: https://edisonpadilla.vercel.app
+[porfolio]: https://edisonpadilla.com
 [twitter]: https://twitter.com/edisonjpp
 [linkedin]: https://www.linkedin.com/in/edison-j-padilla-4970231a8
 [react-export-table-to-excel]: https://github.com/EdisonJpp/react-export-table-to-excel
